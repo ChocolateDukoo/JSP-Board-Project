@@ -20,3 +20,4 @@ JSP 게시판 만들기
 **6강- 회원가입 기능 구현하기(https://velog.io/@hcw0709/%EC%A0%9C-6%EA%B0%95.-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-ltumbsh3)**
 
 **7강- 접속한 회원 세션 관리하기 (https://velog.io/@hcw0709/%EC%A0%9C-7%EA%B0%95.-%EC%A0%91%EC%86%8D%ED%95%9C-%ED%9A%8C%EC%9B%90-%EC%84%B8%EC%85%98-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-hgv11bac)**
+
