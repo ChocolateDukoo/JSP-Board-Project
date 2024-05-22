@@ -26,3 +26,5 @@ JSP 게시판 만들기
 **9강 - 게시판 데이터베이스 구축하기 (https://velog.io/@hcw0709/%EC%A0%9C-9%EA%B0%95.-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-onx5vrvt)**
 
 **10강 - 글쓰기 기능 구현하기 (https://velog.io/@hcw0709/%EC%A0%9C-10%EA%B0%95.-%EA%B8%80%EC%93%B0%EA%B8%B0-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-mxija0lh)**
+
+**11강 - 게시판 글 목록 기능 구현하기 (https://velog.io/@hcw0709/%EC%A0%9C-11%EA%B0%95.-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B8%80-%EB%AA%A9%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-9j27bul6)**
