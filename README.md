@@ -31,3 +31,4 @@ JSP 게시판 만들기
 
 **12강 - 게시글 보기 기능 구현하기 (https://velog.io/@hcw0709/%EC%A0%9C-12%EA%B0%95.-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EB%B3%B4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-bso6q2cb)**
 
+
