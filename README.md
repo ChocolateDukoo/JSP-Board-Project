@@ -35,4 +35,4 @@ JSP 게시판 만들기
 
 **14강 - 웹 사이트 메인 페이지 디자인 (https://velog.io/@hcw0709/%EC%A0%9C-14%EA%B0%95.-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%94%94%EC%9E%90%EC%9D%B8-ls3vvu76)**
 
-**15강 - 프로젝트 완성 및 배포 (https://velog.io/@hcw0709/%EC%A0%9C-15%EA%B0%95.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%84%EC%84%B1-%EB%B0%8F-%EB%B0%B0%ED%8F%AC-48u3aptb)**
+**15강 - 프로젝트 완성 및 배포 (https://velog.io/@hcw0709/%EC%A0%9C-15%EA%B0%95.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%84%EC%84%B1-%EB%B0%8F-%EB%B0%B0%ED%8F%AC-48u3aptb)*
